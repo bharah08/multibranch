@@ -6,7 +6,7 @@ pipeline {
         echo "testing is done"
       }
     }
-    stage('test'){
+    stage('dev'){
       steps{
         echo "devloping is done"
       }
